@@ -1,0 +1,63 @@
+E:\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.dll
+E:\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.pdb
+E:\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.CoreCompileInputs.cache
+E:\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.dll
+E:\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.pdb
+C:\ESPACO\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.dll
+C:\ESPACO\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.pdb
+C:\ESPACO\CCBEI\BaseSGEI\bin\Debug\Seagull.BarTender.Print.dll
+C:\ESPACO\CCBEI\BaseSGEI\bin\Debug\Seagull.Services.PrintScheduler.dll
+C:\ESPACO\CCBEI\BaseSGEI\bin\Debug\Seagull.Services.PrintScheduler.Contracts.dll
+C:\ESPACO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.CoreCompileInputs.cache
+C:\ESPACO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.CopyComplete
+C:\ESPACO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.dll
+C:\ESPACO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.pdb
+C:\ESPACO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.AssemblyReference.cache
+C:\ESPACO\CCBEI - Copia\BaseSGEI\bin\Debug\BaseSGEI.dll
+C:\ESPACO\CCBEI - Copia\BaseSGEI\bin\Debug\BaseSGEI.pdb
+C:\ESPACO\CCBEI - Copia\BaseSGEI\obj\Debug\BaseSGEI.csproj.CoreCompileInputs.cache
+C:\ESPACO\CCBEI - Copia\BaseSGEI\obj\Debug\BaseSGEI.dll
+C:\ESPACO\CCBEI - Copia\BaseSGEI\obj\Debug\BaseSGEI.pdb
+C:\ESPACO\CCBEI - Copia\BaseSGEI\obj\Debug\BaseSGEI.csproj.AssemblyReference.cache
+C:\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.dll
+C:\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.pdb
+C:\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.CoreCompileInputs.cache
+C:\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.dll
+C:\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.pdb
+D:\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.dll
+D:\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.pdb
+D:\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.AssemblyReference.cache
+D:\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.CoreCompileInputs.cache
+D:\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.dll
+D:\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.pdb
+C:\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.AssemblyReference.cache
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.dll
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.pdb
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.AssemblyReference.cache
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.CoreCompileInputs.cache
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.dll
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.pdb
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.dll
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.pdb
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.AssemblyReference.cache
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.CoreCompileInputs.cache
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.dll
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.pdb
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.dll
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.pdb
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.AssemblyReference.cache
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.CoreCompileInputs.cache
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.dll
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.pdb
+F:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.dll
+F:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.pdb
+F:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.AssemblyReference.cache
+F:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.CoreCompileInputs.cache
+F:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.dll
+F:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.pdb
+E:\TesteSGEI\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.dll
+E:\TesteSGEI\CCBEI\BaseSGEI\bin\Debug\BaseSGEI.pdb
+E:\TesteSGEI\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.AssemblyReference.cache
+E:\TesteSGEI\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.csproj.CoreCompileInputs.cache
+E:\TesteSGEI\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.dll
+E:\TesteSGEI\CCBEI\BaseSGEI\obj\Debug\BaseSGEI.pdb
