@@ -1,0 +1,76 @@
+C:\SGEI\SGEI\EntitySGEI\bin\Debug\EntitySGEI.dll
+C:\SGEI\SGEI\EntitySGEI\bin\Debug\EntitySGEI.pdb
+C:\SGEI\SGEI\EntitySGEI\obj\Debug\EntitySGEI.csprojAssemblyReference.cache
+C:\SGEI\SGEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+C:\SGEI\SGEI\EntitySGEI\obj\Debug\EntitySGEI.dll
+C:\SGEI\SGEI\EntitySGEI\obj\Debug\EntitySGEI.pdb
+C:\ESPACO\EntitySGEI\bin\Debug\EntitySGEI.dll
+C:\ESPACO\EntitySGEI\bin\Debug\EntitySGEI.pdb
+C:\ESPACO\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+C:\ESPACO\EntitySGEI\obj\Debug\EntitySGEI.dll
+C:\ESPACO\EntitySGEI\obj\Debug\EntitySGEI.pdb
+C:\ESPACO\EntitySGEI\obj\Debug\EntitySGEI.csprojAssemblyReference.cache
+C:\espacoinfantilvsj-sgei-1f43c998ed15\EntitySGEI\bin\Debug\EntitySGEI.dll
+C:\espacoinfantilvsj-sgei-1f43c998ed15\EntitySGEI\bin\Debug\EntitySGEI.pdb
+C:\espacoinfantilvsj-sgei-1f43c998ed15\EntitySGEI\obj\Debug\EntitySGEI.csprojAssemblyReference.cache
+C:\espacoinfantilvsj-sgei-1f43c998ed15\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+C:\espacoinfantilvsj-sgei-1f43c998ed15\EntitySGEI\obj\Debug\EntitySGEI.dll
+C:\espacoinfantilvsj-sgei-1f43c998ed15\EntitySGEI\obj\Debug\EntitySGEI.pdb
+C:\Users\espac\Source\Repos\ccbei\EntitySGEI\bin\Debug\EntitySGEI.dll
+C:\Users\espac\Source\Repos\ccbei\EntitySGEI\bin\Debug\EntitySGEI.pdb
+C:\Users\espac\Source\Repos\ccbei\EntitySGEI\obj\Debug\EntitySGEI.csprojAssemblyReference.cache
+C:\Users\espac\Source\Repos\ccbei\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+C:\Users\espac\Source\Repos\ccbei\EntitySGEI\obj\Debug\EntitySGEI.dll
+C:\Users\espac\Source\Repos\ccbei\EntitySGEI\obj\Debug\EntitySGEI.pdb
+E:\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.dll
+E:\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.pdb
+E:\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+E:\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.dll
+E:\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.pdb
+C:\ESPACO\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.dll
+C:\ESPACO\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.pdb
+C:\ESPACO\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+C:\ESPACO\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.dll
+C:\ESPACO\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.pdb
+C:\ESPACO\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.AssemblyReference.cache
+C:\ESPACO\CCBEI - Copia\EntitySGEI\bin\Debug\EntitySGEI.dll
+C:\ESPACO\CCBEI - Copia\EntitySGEI\bin\Debug\EntitySGEI.pdb
+C:\ESPACO\CCBEI - Copia\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+C:\ESPACO\CCBEI - Copia\EntitySGEI\obj\Debug\EntitySGEI.dll
+C:\ESPACO\CCBEI - Copia\EntitySGEI\obj\Debug\EntitySGEI.pdb
+C:\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.dll
+C:\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.pdb
+C:\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+C:\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.dll
+C:\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.pdb
+D:\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.dll
+D:\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.pdb
+D:\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.AssemblyReference.cache
+D:\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+D:\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.dll
+D:\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.pdb
+C:\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.AssemblyReference.cache
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.dll
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.pdb
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.AssemblyReference.cache
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.dll
+C:\Users\espac\OneDrive\Documentos\VILA MAIA - CENTRAL GUARUJA\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.pdb
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.dll
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.pdb
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.AssemblyReference.cache
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.dll
+E:\GUARUJA CENTRAL VILA MAIA\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.pdb
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.dll
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.pdb
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.AssemblyReference.cache
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.dll
+D:\CCBEI\Documentos\IMPLANTAÇÃO SGEI\BR 225007 - SABOOO\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.pdb
+E:\TesteSGEI\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.dll
+E:\TesteSGEI\CCBEI\EntitySGEI\bin\Debug\EntitySGEI.pdb
+E:\TesteSGEI\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.AssemblyReference.cache
+E:\TesteSGEI\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.csproj.CoreCompileInputs.cache
+E:\TesteSGEI\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.dll
+E:\TesteSGEI\CCBEI\EntitySGEI\obj\Debug\EntitySGEI.pdb
